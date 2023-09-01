@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pisaltejas
+- 👋 Hi, I’m Tejas Pisal.
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Microsoft Azure
 - 💞️ I’m looking to collaborate on new technologies project
