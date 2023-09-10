@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tejas Pisal.
-- 👀 I’m interested in web developement
+- 👀 I’m interested in web developement and new tech 
 - 🌱 I’m currently learning Microsoft Azure
 - 💞️ I’m looking to collaborate on new technologies project
 - 📫 How to reach me Email : tejaspisal4@gmail.com
